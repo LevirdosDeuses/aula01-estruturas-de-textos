@@ -1,0 +1,10 @@
+RESOLUÇÕES / DISPOSITIVOS
+GRID (COLUNAS) - COL*
+*o número de colunas do site (padrão 12)
+celular			none		**
+tablet			sm
+netbook			md		**
+notebook		lg		**
+computador		xl
+comp. (telas maiores)	xxl
+

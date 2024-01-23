@@ -1,0 +1,17 @@
+AÇÃO			CSS		BOOTSTRAP
+margem			margin		m-	1a5
+espaçamento interno	padding		p-	1a5
+largura			width		w-	25,50,75,100
+altura			height		h-	25,50,75,100
+display			display		d-	block, inline, grid, flex	
+alinhamento		align		text-align	left, center, right, justify
+cor do texto		color		text
+cor da borda		border		color-border	
+cor de fundo		background	bg-("cores gerais")		
+
+
+CORES GERAIS
+	primary, secundary, success, danger, warning, info, dark, light
+	azul, cinza, verde, vermelho, ciano, "preto" (cinza escuro), branco (gelo)
+
+ 
